@@ -1,0 +1,68 @@
+{
+  "name": "ae",
+  "title": "Adventures in English",
+  "description": "<p>Welcome to a brand new and more effective way to learn English - and a whole lot more!</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "My DDB Spells",
+      "name": "ae-ddb-spells",
+      "package": "world",
+      "path": "packs/ae-ddb-spells.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/users/5f39266a9ecd8062e8a6119e/Data/worlds/ae/packs/ae-ddb-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Items",
+      "name": "ae-ddb-items",
+      "package": "world",
+      "path": "packs/ae-ddb-items.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/users/5f39266a9ecd8062e8a6119e/Data/worlds/ae/packs/ae-ddb-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Features",
+      "name": "ae-ddb-features",
+      "package": "world",
+      "path": "packs/ae-ddb-features.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/users/5f39266a9ecd8062e8a6119e/Data/worlds/ae/packs/ae-ddb-features.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "My DDB Monsters",
+      "name": "ae-ddb-monsters",
+      "package": "world",
+      "path": "packs/ae-ddb-monsters.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/users/5f39266a9ecd8062e8a6119e/Data/worlds/ae/packs/ae-ddb-monsters.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "https://assets.forge-vtt.com/5f39266a9ecd8062e8a6119e/AE%20video%20background.png",
+  "system": "dnd5e",
+  "coreVersion": "0.6.5",
+  "systemVersion": 0.95,
+  "nextSession": "",
+  "availability": 0,
+  "unavailable": false,
+  "id": "ae"
+}
